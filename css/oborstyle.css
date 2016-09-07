@@ -1,0 +1,740 @@
+/*FONTS*/
+    /* Chalk   */
+        @import 'https://fonts.googleapis.com/css?family=Fredericka+the+Great';
+    /* Scoreboard */
+        @import 'https://fonts.googleapis.com/css?family=Stardos+Stencil';
+    /*body copy*/
+        @import 'https://fonts.googleapis.com/css?family=Lato';
+
+    * {
+          -webkit-border-radius: 0;
+             -moz-border-radius: 0;
+                  border-radius: 0;
+    }
+    body {
+        background-color: #00BCD4;
+        font-family: 'Lato', sans-serif;
+        color: #fff;
+    }
+    .modal {
+        z-index: 1102;
+    }
+    
+    .borderThis {
+        border: 1px solid #fff;
+    }
+
+/* Sticky footer styles*/
+    html, body { height: 100%; }
+    footer {
+        padding: 0 10px 0 10px;
+        color: white;
+        background-color: #00BCD4;
+    }
+    footer > p {
+        margin-bottom: 11px;
+        margin-top: 13px;
+    }
+    .wrapper {
+        min-height: 100%;
+        height: auto !important;
+        height: 100%;
+        margin: 0 auto -46px;
+    }
+    .push { height: 63px; } /* Just some arbitrary space to add between footer and rest of the content, when they are close */
+    /* not required for sticky footer; just makes some space for navigation bar */
+    .wrapper > .container-fluid {
+        /* padding-top: 60px; */
+    }
+/* END Sticky footer styles */
+input {
+    font-size: 16px;
+}
+.form-control {
+    font-size: 16px;
+}
+/*Game start overlay*/
+    .overlay {
+        position:fixed; 
+        top:0; 
+        left:0; 
+        background: #00BCD4; 
+        z-index:5; 
+        width:100%; 
+        height:100%;
+        display: none;
+    }
+    .overlay > .container-fluid {
+        height: 100%;
+        overflow: scroll;
+        position: relative;
+    }
+    .wrapper {
+        overflow: auto;
+    }
+
+    .overlay-box {
+        width: 90vw;
+        position: absolute;
+        top: 50%; 
+        left: 50%;
+        margin-left: -45vw;
+        background-color: #00ACC1;
+        text-align: center;
+        min-width: 230px;
+        font-family: 'Lato', sans-serif;
+        z-index: 11; /* 1px higher than the overlay layer */
+        transform: translateY(-50%);
+    }
+    .back-arrow {
+        color: rgba(245,245,245,0.4);
+        font-size: 36px;
+        position: absolute;
+        top: 0;
+        left: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+        cursor: pointer;
+    }
+    .back-arrow:hover {
+    background-color: rgba(245,245,245,0.1);
+    border-radius: 50%;
+    }
+    .fa-arrow-left {
+    padding: 0px 3px 10px 0px;
+}
+    .start-game-buttons > .col-xs-6 > .btn-default {
+        color: #fff;
+    }
+    .control-label {
+        display: block;
+    }
+    #submitNames {
+        color: #fff;
+    }
+    .start-button-hld > .col-xs-6 > .btn-default {
+        color: #fff;
+    }
+    .start-header {
+        position: relative;
+        display: block;
+        width: 100%;
+        overflow: hidden;
+        margin: 30px auto 0 auto;
+        text-align: center;
+    }
+    .start-header-inner{
+        position: relative;
+        width: 207.66px;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+    .navbar-brand-start {
+        font-family: 'Fredericka the Great', cursive;
+        color: #fff;
+        font-size: 60px;
+        margin: 32px 0 0 -112px;
+        height: 73px;
+        padding: 6px 15px;
+        line-height: 60px;
+    }
+    /*used for toggling the team name form in overlay*/
+    .showTeamNames {
+        display: none;
+        text-align: left;
+        width: 100%;
+
+    }
+    .random-team {
+        display: none;
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    .start-game-buttons {
+        margin: 30px auto;
+        max-width: 800px;
+    }
+    .start-button-hld {
+        margin: 30px auto;
+        width: 100%;
+        position: relative;
+        overflow: hidden;   
+        max-width: 800px;
+    }
+    .start-form {
+        width: 90%;
+        max-width: 800px;
+        margin: 0 auto 30px auto;
+    }
+/*nav bar*/
+    .navbar {
+        margin-bottom: 0;
+        -webkit-border-radius: 0;
+            moz-border-radius: 0;
+                border-radius: 0;
+    }
+    .navbar-default {
+        background-color: #00BCD4;
+        border-color: #00BCD4;
+        color: #fff;
+    }
+    .obor-logo {
+        max-width: 106px;
+        min-width: 106px;
+    }
+    .obor-svg {
+        width: 106px;
+    }
+    .navbar-brand {
+        font-family: 'Fredericka the Great', cursive;
+        color: #fff;
+        font-size: 60px;
+        margin: 32px 0 0 -112px;
+        height: 73px;
+        padding: 6px 15px;
+        line-height: 60px;
+    }
+    .navbar>.container-fluid .navbar-brand {
+        
+    }
+    .navbar-brand>img {
+    }
+    .navbar-default .navbar-brand {
+        color: #fff;
+    }
+    .name-sub {
+          
+    }
+    .sub-brand {
+        margin-top: 38px;
+        float: right;
+    }
+
+/*top row game info*/
+    .game-info {
+        background-color: #00BCD4;
+        
+    }
+    .scoreboard {
+        background-color: #333;
+        color: #fff;
+        min-width: 452px;
+        padding: 10px;
+        margin: 10px;
+        position: relative;
+        overflow: hidden;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px; 
+        border-radius: 12px;
+        min-height: 225px;
+
+
+    }
+    .scoreboard-top > div {
+        display: inline-block;
+    }
+    .scoreboard-top-left {
+        font-size: 28px;
+    }
+    .scoreboard-top-middle {
+        font-size: 28px;
+        padding: 5px;
+        margin: 0 10px;
+    }
+    .scoreboard-top-right {
+        font-size: 28px;
+    }
+    .scoreboard-middle > div {
+        display: inline-block;
+    }
+    .scoreboard-top, .scoreboard-middle {
+        text-align: center;
+    }
+    .scoreboard-middle {
+        font-size: 32px;
+    }
+    .teamOneName {
+        font-family: 'Lato', sans-serif;
+        font-size: 14px;
+    }
+    .turnPointstitle {
+        font-family: 'Lato', sans-serif;
+    }
+    .teamTwoName {
+        font-family: 'Lato', sans-serif;
+        font-size: 14px;
+    }
+    .scoreboard-middle-middle {
+        font-family: 'Lato', sans-serif;
+    }
+    .scoreboard-bottom {
+        font-family: 'Lato', sans-serif;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        
+    }
+    .endTurn {
+        color: #fff !important;
+        border: none;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px; 
+        border-radius: 12px;
+        font-size: 24px;
+    }
+ 
+    .teamOnePoints, .teamTwoPoints, .turnPoints {
+        color: #e4a62d;
+        text-align: center;
+        font-size: 32px;
+    }
+    .teamOnePoints, .teamTwoPoints {
+        border: 2px solid #fff;
+           /* CSS Transition */
+        -webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
+        -moz-transition: background .2s ease-in-out, border .2s ease-in-out;
+        -ms-transition: background .2s ease-in-out, border .2s ease-in-out;
+        -o-transition: background .2s ease-in-out, border .2s ease-in-out;
+        transition: background .2s ease-in-out, border .2s ease-in-out;
+    } 
+    .turnPoints {
+        font-size: 48px;
+    }
+
+    .js-teamOneTurn > i {
+        color: #fff;
+    }
+
+    .js-teamTwoTurn > i {
+        color: #fff;
+    }
+
+/*problem row*/
+    .theProblem {
+        color: #fff;
+        width: 100%;
+        display: table;
+        background-color: #00ACC1;
+    }
+
+    .problem-col {
+        width: 20%;
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+        padding: 20px 0;
+    }
+
+    .theProblemDetail {
+        text-align: center;
+        width: 100%;
+    }
+    .modal-content {
+        background-color: #0097A7;
+    }
+    .modal-header {
+        border: none;
+    }
+    .modal-footer {
+        border: none;
+    }
+    .card {
+      position: relative;
+      float: left;
+      width: 100%;
+      text-align: center;
+    }
+
+    .card__front,
+    .card__back {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+    }
+
+    .card__front,
+    .card__back {
+      -webkit-backface-visibility: hidden;
+              backface-visibility: hidden;
+      -webkit-transition: -webkit-transform 0.3s;
+              transition: transform 0.3s;
+    }
+
+    .card__front {
+      
+    }
+    .card__back {
+        display: table;
+    }
+    .card__back > div{
+        display: table-cell;
+        vertical-align: middle;
+    }
+    .multipliers {
+
+    }
+    .multipliers-row {
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+    }
+    .multNum {
+        color: #fff;
+        width: 25%;
+        padding: 5px;
+        cursor: pointer;
+        float: left;
+        text-align: center;   
+    }
+    .multiplier0 {
+      width: 50%;
+    }
+    .multNumOk {
+        color: #fff;
+        width: 25%;
+        padding: 5px;
+        cursor: pointer;
+        float: left;
+        text-align: center; 
+    }
+    /* clicked number in grid */
+    .js-num-clicked {
+        box-shadow: inset 0px 0px 19px 1px rgba(0,0,0,0.5);
+    }
+
+    /*border utilities for number pad*/
+    
+    .b-b-r {
+        border-top: 0px solid #fff;
+        border-right: 1px solid #fff;
+        border-bottom: 1px solid #fff;
+        border-left: 0px solid #fff;
+    }
+    .b-r {
+        border-top: 0px solid #fff;
+        border-right: 1px solid #fff;
+        border-bottom: 0px solid #fff;
+        border-left: 0px solid #fff;
+    }    
+    .b-b {
+        border-top: 0px solid #fff;
+        border-right: 0px solid #fff;
+        border-bottom: 1px solid #fff;
+        border-left: 0px solid #fff;
+    }
+            
+    .card__back {
+      -webkit-transform: rotateY(-180deg);
+              transform: rotateY(-180deg);
+    }
+    .flipButton {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    .card.effect__click.flipped .card__front {
+      -webkit-transform: rotateY(-180deg);
+              transform: rotateY(-180deg);
+    }
+
+    .card.effect__click.flipped .card__back {
+      -webkit-transform: rotateY(0);
+              transform: rotateY(0);
+    }
+
+/*operator column*/
+    .theOperator {
+        color: #80DEEA;
+    }    
+    .fa-asterisk {
+        cursor: pointer;
+    }
+    .fa-times {
+        cursor: pointer;
+    }
+
+/*multiplican column*/
+    .multiplicandHolder {
+    }
+    .mobile-pound {
+    }
+    .hand-icon {
+        max-width: 50px;
+    }
+    #newMultiplican {
+        cursor: pointer;
+        width: 100%;
+    }
+        @keyframes pulse {
+        from {
+            box-shadow: 0 0 0 0 rgba(255, 255, 255, 1), 0 0 0 0 rgba(51, 51, 51, 1);
+        }
+        to {
+            box-shadow: 0 0 0 0.65em rgba(255, 255, 255, 1), 0 0 0 1em rgba(51, 51, 51, 0);
+        }
+    }
+
+    div[class^='pulse-'] {
+        color: white;
+        cursor: pointer;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .pulse-multiple:active {
+        animation: pulse 0.6s infinite ease-out;
+    }
+
+
+    .noselect {
+        -webkit-touch-callout: none;
+        /* iOS Safari */
+        -webkit-user-select: none;
+        /* Chrome/Safari/Opera */
+        -khtml-user-select: none;
+        /* Konqueror */
+        -moz-user-select: none;
+        /* Firefox */
+        -ms-user-select: none;
+        /* Internet Explorer/Edge */
+        user-select: none;
+        /* Non-prefixed version, currently not supported by any browser */
+    }
+
+/*equal column*/    
+    .theEqual {
+        color: #80DEEA;
+    }
+
+/*answer column*/    
+    .myAnswer {
+        width: 90%;
+        height: 100%;
+        font-size: 16px;
+        background-color: #00ACC1;
+        text-align: center;
+        border: none;
+        
+    }
+    .helpText {
+        font-size: 48px;
+    }
+
+/*button row*/
+    .btn {
+        border-radius: 0;
+    }
+    .btn-default {
+        background-color: #0097A7;
+        color: #80DEEA;
+        border-color: rgba(204,204,204,0.2);
+    }
+    .btn-default:hover {
+        color: #fff;
+        background-color: #00838F;
+        border-color: rgba(204,204,204,0.2);
+    }
+    .btn-default.focus, .btn-default:focus {
+        color: #fff;
+        background-color: #00838F;
+        border-color: #8c8c8c;
+        border-color: rgba(204,204,204,0.2);
+    }
+    .btn-default.active, .btn-default:active, .open>.dropdown-toggle.btn-default {
+        color: #fff !important;
+        background-color: #00838F !important;
+        border-color: rgba(204,204,204,0.2);
+    }    
+    .problem-buttons {
+        margin: 0;
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        background-color: #777;
+        display: table;
+    }
+    .problem-buttons-col {
+        width: 50%;
+        display: table-cell;
+        vertical-align: middle;
+    }
+    .problem-buttons-btn {
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        display: table;
+    }
+    .thisfont {
+        display: table-cell !important;
+        vertical-align: middle;
+    }
+    .fa-th {
+    }
+    .fa-check{
+    }
+
+/*top of footer used in js to fill bottom*/
+.js-top-footer {
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #d81777;
+}
+
+/*fade in animations*/
+    @-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+    @-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+    @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+    .fade-in {
+      opacity:0;  /* make things invisible upon start */
+      -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+      -moz-animation:fadeIn ease-in 1;
+      animation:fadeIn ease-in 1;
+
+      -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+      -moz-animation-fill-mode:forwards;
+      animation-fill-mode:forwards;
+
+      -webkit-animation-duration:1s;
+      -moz-animation-duration:1s;
+      animation-duration:1s;
+    }
+
+    .fade-in.one {
+      -webkit-animation-delay: 0.7s;
+      -moz-animation-delay: 0.7s;
+      animation-delay: 0.7s;
+    }
+
+    .fade-in.two {
+      -webkit-animation-delay: 1.2s;
+      -moz-animation-delay:1.2s;
+      animation-delay: 1.2s;
+    }
+
+    .fade-in.three {
+      -webkit-animation-delay: 1.6s;
+      -moz-animation-delay: 1.6s;
+      animation-delay: 1.6s;
+    }
+/*fade in animations*/   
+
+footer {
+    background-color: #00BCD4;
+    height: 46px;
+
+}
+footer a {
+    font-size: 32px;
+    color: #fff;
+    text-decoration: none;
+} 
+
+/* Media Queries */
+@media only screen and (min-width: 320px) {
+    .problem-col {
+        font-size: 42px;
+    }
+    .problem-buttons-btn {
+        font-size: 92px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .scoreboard {
+        min-width: 275px;
+        padding: 5px;
+        margin: 0 0 20px 0;
+    }
+    .scoreboard-top-left {
+        font-size: 18px;
+    }
+    .scoreboard-top-middle {
+        font-size: 18px;
+    }
+    .scoreboard-top-right {
+        font-size: 18px;
+    }
+
+/*     .fa-th {
+    font-size: 12vw !important;
+}
+.fa-check{
+    font-size: 12vw !important;
+} */
+
+    /* utility */
+    .zero-padding {
+        padding: 0;
+    }
+}
+
+/* Media Queries */
+@media only screen and (max-width: 550px) {
+    .scoreboard {
+        min-width: 275px;
+        padding: 5px;
+        margin: 0 0 20px 0;
+    }
+    .scoreboard-top-left {
+        font-size: 18px;
+    }
+    .scoreboard-top-middle {
+        font-size: 18px;
+    }
+    .scoreboard-top-right {
+        font-size: 18px;
+    }
+
+    /* utility */
+    .zero-padding {
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .sub-brand {
+        float: none;
+    }
+}
+@media (min-width: 768px) {
+    .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+        margin-left: -112px;
+    }
+    .multiplicandHolder {
+    }
+}
+@media (min-width: 992px) {
+    .theProblemDetail {
+        
+    }
+    .theOperator {
+        
+    }
+    .multiplicandHolder {
+        
+    }
+    .theEqual {
+        
+    }
+    .start-button-hld > .col-xs-6 > .btn-default {
+        
+        
+        
+    }
+    .start-game-buttons > .col-xs-6 > .btn-default {
+        
+    }
+    #submitNames {
+    }
+    .fa-th {
+    }
+    .fa-check{
+        
+    }
+}

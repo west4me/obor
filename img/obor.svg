@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 785 444" enable-background="new 0 0 785 444" xml:space="preserve">
+<g id="Layer_3">
+	<path class="obor-head-horn" fill="#D6D6B6" d="M141.8,140.4c0,0-149.7-43.6-136.9-135.4c0,1.1,0.3,60.8,149.1,84.3C152.1,93.2,141.8,140.4,141.8,140.4z"
+		/>
+	<path class="obor-head-horn" fill="#D6D6B6" d="M645.9,135.4c0,0,149.7-43.6,136.9-135.4c0,1.1-0.3,60.8-149.1,84.3C635.7,88.2,645.9,135.4,645.9,135.4z"
+		/>
+</g>
+<g id="Layer_2">
+	<path class="obor-head-top" fill="#3D2323" d="M135.2,283.7c0,0-7.5-185.8,22.4-201.8S620,30.6,644.6,75.5c24.6,44.8-18.2,208.2-18.2,208.2H135.2z"/>
+</g>
+<g id="Layer_4">
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="146.3,291.7 160.6,253.5 173.3,291.7 	"/>
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="198.8,291.7 173.3,248.7 214.7,291.7 	"/>
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="214.7,283.7 222.6,248.7 241.7,283.7 	"/>
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="256,283.7 256,253.5 267.2,283.7 	"/>
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="291,283.7 319.7,248.7 337.2,283.7 	"/>
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="367.4,283.7 393.3,253.5 380.4,283.7 	"/>
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="402.4,283.7 416.7,237.6 424.7,283.7 	"/>
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="467.7,283.7 451.7,248.7 494.7,283.7 	"/>
+	<path class="obor-head-teeth" fill="#D6D6B6" d="M523.3,291.7l12.7-43c0,0,41.4,43,14.3,43C523.3,291.7,523.3,291.7,523.3,291.7z"/>
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="575.8,283.7 587,253.5 587,291.7 	"/>
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="614,283.7 607.7,260.6 626.4,283.7 	"/>
+	<polygon class="obor-head-teeth" fill="#D6D6B6" points="633.7,283.7 658.6,253.5 658.6,291.7 	"/>
+</g>
+<g id="Layer_1">
+	<path class="obor-head-bottom" fill="#4C2828" d="M169.4,423.6c0,0,242.4,45.9,430.3,0c9.6-1.1,79-132.4,75.8-144.2c-3.2-11.7-541.4-6.4-564.9,0
+		C87.2,285.8,169.4,423.6,169.4,423.6z"/>
+</g>
+<g id="Layer_5">
+	<ellipse id="lid" class="obor-head-eye-left" fill="#D6D6B6" cx="254.1" cy="157.2" rx="60.1" ry="45.3"/>
+	<circle class="obor-head-eye-right" fill="#D6D6B6" cx="565.5" cy="154" r="42.2"/>
+</g>
+<g id="Layer_6">
+	<circle id="eye" class="obor-head-iris" fill="#514F18" cx="244.9" cy="157.1" r="16.7"/>
+	<circle class="obor-head-iris" fill="#514F18" cx="566.1" cy="154.5" r="14.1"/>
+</g>
+</svg>
