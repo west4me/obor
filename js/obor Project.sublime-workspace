@@ -1,0 +1,1607 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"width: 〔property〕"
+			],
+			[
+				"wid",
+				"width: 〔property〕"
+			],
+			[
+				"pro",
+				"provided"
+			],
+			[
+				"ad",
+				"added"
+			],
+			[
+				"per",
+				"person"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"he",
+				"height: 〔property〕"
+			],
+			[
+				"ba",
+				"background: 〔property〕"
+			],
+			[
+				"ma",
+				"margin-right: 〔property〕"
+			],
+			[
+				"cl",
+				"clear: 〔property〕"
+			],
+			[
+				"inl",
+				"inline-block〔value〕"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"St",
+				"Structure"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"con",
+				"contents	.contents()"
+			],
+			[
+				"rem",
+				"remove	.remove()"
+			],
+			[
+				"un",
+				"unwrap	.unwrap()"
+			],
+			[
+				"remo",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ove",
+				"overLayClose"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ov",
+				"overLayOpen"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"sw",
+				"switchTurns"
+			],
+			[
+				"turn",
+				"turnScore"
+			],
+			[
+				"wh",
+				"whosTurn"
+			],
+			[
+				"teamOn",
+				"teamOneScore"
+			],
+			[
+				"add",
+				"addedPoints"
+			],
+			[
+				"the",
+				"theTurn"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"tu",
+				"turnPoints"
+			],
+			[
+				"tur",
+				"turnPoints"
+			],
+			[
+				"mul",
+				"multi2"
+			],
+			[
+				"fir",
+				"firstColumn"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"v",
+				"values"
+			],
+			[
+				"tea",
+				"teamTwov"
+			],
+			[
+				"team",
+				"teamOne"
+			],
+			[
+				"bs",
+				"bs3-template:html5	bs3-html5-template"
+			],
+			[
+				"bs3",
+				"bs3-local	bs3-local"
+			],
+			[
+				"vi",
+				"vertical-align"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"sho",
+				"shouldShowAlert"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"alert",
+				"alertDate"
+			],
+			[
+				"marke",
+				"market-title"
+			],
+			[
+				"market-c",
+				"market-content"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"inp",
+				"inputText"
+			],
+			[
+				"da",
+				"dateStr"
+			],
+			[
+				"upda",
+				"updatedDate"
+			],
+			[
+				"effec",
+				"effectiveDate"
+			],
+			[
+				"cs",
+				"csvContains"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"sort",
+				"sort-date"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"pac",
+				"pacesetters-swipe"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"fi",
+				"font-size"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"ca",
+				"calendar"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"carousel",
+				"carousel-inner"
+			],
+			[
+				"tab",
+				"tabWidth"
+			],
+			[
+				"this",
+				"thisMonth"
+			],
+			[
+				"current",
+				"currentMonth"
+			],
+			[
+				"all",
+				"allDayDefault"
+			],
+			[
+				"google",
+				"googleCalendarId"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"but",
+				"button	Tag"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"buttonWi",
+				"buttonWidth1"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"curr",
+				"currentStep〔variable〕"
+			],
+			[
+				"ste",
+				"step〔argument〕"
+			],
+			[
+				"cu",
+				"currentStep"
+			],
+			[
+				"set",
+				"setupModalForCurrentIndex〔function〕"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"post",
+				"postThumb"
+			],
+			[
+				"ch",
+				"children〔function〕"
+			],
+			[
+				"cat",
+				"categoryWidth"
+			],
+			[
+				"bubbl",
+				"bubble__step"
+			],
+			[
+				"get",
+				"getId"
+			],
+			[
+				"tour",
+				"tourCenter"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"ag",
+				"agentInfoDisplayed"
+			],
+			[
+				"wind",
+				"windowClose"
+			],
+			[
+				"agent",
+				"agentInfoDisplayed"
+			],
+			[
+				"agen",
+				"agentInfoDisplayed"
+			],
+			[
+				"Inf",
+				"information"
+			],
+			[
+				"age",
+				"agentPhone"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/obor/index.html",
+			"settings":
+			{
+				"buffer_size": 5823,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/obor/css/oborstyle.css",
+			"settings":
+			{
+				"buffer_size": 1417,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "oborjs.js",
+			"settings":
+			{
+				"buffer_size": 7325,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 271.0,
+		"last_filter": "Package Control: sa",
+		"selected_items":
+		[
+			[
+				"Package Control: sa",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"xml2json",
+				"xml2json pretty"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"fish",
+				"Fish Tank: Dense"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Remove Package"
+			],
+			[
+				"sub",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:l",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: bs3-d",
+				"Snippet: bs3-input-date"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"fish tank",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tso0016/Documents/Projects/VOC/8.10.16/voc.js",
+		"/C/Users/tso0016/Documents/Projects/VOC/8.10.16/devScriptElement.html",
+		"/C/Users/tso0016/Documents/Deletable/CustomerAccess.log.2016-08-10-AM.log",
+		"/X/Prod1/CustomerAccess.log.2016-08-10-AM.log",
+		"/C/xampp/htdocs/wellness/css/bootstrap.min.version.2.css",
+		"/C/xampp/htdocs/wellness/css/bootstrap-lightbox.min.css",
+		"/C/xampp/htdocs/wellness/js/bootstrap.min.version.2.js",
+		"/C/xampp/htdocs/wellness/js/moment.min.version.2.js",
+		"/C/xampp/htdocs/wellness/js/gcal.version.2.js",
+		"/C/xampp/htdocs/wellness/js/bootstrap-lightbox.min.js",
+		"/C/xampp/htdocs/wellness/js/jquery.fittext.js",
+		"/C/Users/tso0016/Documents/Projects/CA/685169 Move request button/button.html",
+		"/X/Prod1/CustomerAccess.log.2016-08-03-AM.log",
+		"/Z/Prod3/CustomerAccess.log.2016-08-03-AM.log",
+		"/Y/Prod2/CustomerAccess.log.2016-08-03-AM.log",
+		"/X/Prod1/SystemErr.log",
+		"/Z/mobilered3/Mobile.log.2016-05-04-03.log",
+		"/Z/mobilered3/Mobile.log.2016-05-04-00.log",
+		"/C/Users/tso0016/Downloads/test.json",
+		"/C/Users/tso0016/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/tso0016/Documents/Projects/experiments/jquery/index.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/ABC Sublime working files/sheltercss.css",
+		"/C/xampp/htdocs/abc/index.html",
+		"/C/Users/tso0016/Documents/Projects/06.28.16 thank you email/ContactUsTemplate.html",
+		"/C/xampp/htdocs/email/billDueNoticeTemplate.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/tso0016/Documents/Projects/ABC/ABC to do.txt",
+		"/C/Users/tso0016/Desktop/sheltercss.css",
+		"/C/Users/tso0016/Documents/Projects/ABC/print.css",
+		"/C/Users/tso0016/Documents/Projects/ABC/ABC Sublime working files/ABCstyle.css",
+		"/C/Users/tso0016/Documents/Projects/ABC/ABC Sublime working files/abcscripts.js",
+		"/C/Users/tso0016/Desktop/recently updated list.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/conference of chap qualif source/original.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/6.30.16 polyfill/number-polyfill.css",
+		"/C/Users/tso0016/Documents/Projects/ABC/6.30.16 polyfill/number-polyfill.js",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/6KNPBQVO/agentoftheyear[1]",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/FBNTW4NG/agentoftheyear[3]",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/FBNTW4NG/agentoftheyear[2]",
+		"/C/Users/tso0016/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Users/tso0016/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/C/Users/tso0016/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/tso0016/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/tso0016/Desktop/My Tasks.todo",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/SOLRKAFJ/abcprod.shelterinsurance[1]",
+		"/C/Users/tso0016/Documents/Projects/06.28.16 thank you email/ContactUsTemplate.vm",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/FBNTW4NG/2015[1]",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/FBNTW4NG/agentoftheyear[1]",
+		"//tcmpappsrv1/Sites/abc/recentlyupdated/index.html",
+		"//tcmpappsrv1/Sites/abctest/recentlyupdated/index.html",
+		"//192.168.249.74/wwwroot/abc/index.html",
+		"//192.168.249.73/wwwroot/abc/index.html",
+		"//tcmpappsrv1/Sites/abc/index.html",
+		"//tcmpappsrv1/Sites/abctest/index.html",
+		"/C/Users/tso0016/Desktop/436495 - Display a message when java script is dis",
+		"//tcmpappsrv1/Sites/abctest/agencymanagement/benefits/forms/index.html",
+		"//tcmpappsrv1/Sites/abc/agencymanagement/benefits/forms/index.html",
+		"//192.168.249.74/wwwroot/abc/agencymanagement/benefits/forms/index.html",
+		"//192.168.249.63/wwwroot/abc/agencymanagement/benefits/forms/index.html",
+		"//Columbia/dfsr1/GeneralServices/Share/ABC AOY Content/WOE.html",
+		"//Columbia/dfsr1/GeneralServices/Share/ABC AOY Content/2004.html",
+		"//Columbia/dfsr1/GeneralServices/Share/ABC AOY Content/2002.html",
+		"//Columbia/dfsr1/GeneralServices/Share/ABC AOY Content/2003.html",
+		"/C/Users/tso0016/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/xampp/htdocs/email/billDueNoticeTemplateUpdated.vm",
+		"/C/Users/tso0016/Documents/Projects/ABC/all-ie-only.css",
+		"/C/xampp/htdocs/email/billDueNoticeTemplateUpdated.vm.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/fulltextmodifiers.html",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/FBNTW4NG/execute[1]",
+		"//tcmpappsrv1/Sites/cs/claims/additional_content/cat_codes/index.html",
+		"/C/xampp/htdocs/shelter/index.html",
+		"/C/xampp/htdocs/shelter/css/shelterfoundationv2.css",
+		"/C/Users/tso0016/AppData/Local/Temp/notes256C9A/Drag3030471A/index.html",
+		"/C/xampp/htdocs/spotlight/index.html",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/6KNPBQVO/ConcordIntroForm[1]",
+		"/C/Users/tso0016/Documents/Projects/ABC/fontawesome/font-awesome.min.css",
+		"/C/Users/tso0016/Downloads/bootstrap-submenu.css",
+		"//tcmpappsrv1/Sites/abctest/departmentinformation/underwriting/personallines/posts/2015residentialpercentageofchangerollupfactors.html",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/FBNTW4NG/request[1]",
+		"/C/Users/tso0016/Downloads/glossary.gloss",
+		"/C/Users/tso0016/Documents/Projects/ABC/updateProgress.txt",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/N5UIH4U0/www.shelterinsurance[1]",
+		"/C/Users/tso0016/Documents/Projects/experiments/FullscreenOverlayStyles/index.html",
+		"/C/Users/tso0016/Google Drive/01 Web Work/newObor/img/cross.png",
+		"/C/Users/tso0016/Documents/Projects/experiments/FullscreenOverlayStyles/css/style1.css",
+		"/C/Users/tso0016/Documents/Projects/experiments/FullscreenOverlayStyles/js/demo1.js",
+		"/C/Users/tso0016/Google Drive/01 Web Work/newObor/js/modernizr.custom.js",
+		"/C/Users/tso0016/Google Drive/01 Web Work/newObor/js/classie.js",
+		"/C/Users/tso0016/Documents/Projects/experiments/FullscreenOverlayStyles/js/classie.js",
+		"/C/Users/tso0016/Google Drive/01 Web Work/newObor/sftp-config.json",
+		"/C/Users/tso0016/Google Drive/01 Web Work/newObor/index.html",
+		"/C/xampp/htdocs/obor/css/oborstyle.css",
+		"/C/xampp/htdocs/obor/js/oborjs.js",
+		"/C/xampp/htdocs/obor/index.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/video/sftp-config.json",
+		"/C/xampp/htdocs/abc/css/style1.css",
+		"/C/xampp/htdocs/abc/js/scripts.js",
+		"/C/xampp/htdocs/abc/js/alert.js",
+		"/C/xampp/htdocs/abc/css/alert.css",
+		"/C/Users/tso0016/AppData/Local/Temp/notes256C9A/style.css",
+		"/C/Users/tso0016/Downloads/customStyles.css",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/6KNPBQVO/429C8755C8CCDCE3862570FA0059950E[1]",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/ABCHelp/home.html",
+		"/C/Users/tso0016/AppData/Local/Temp/Temp1_Interactive3DMallMap.zip/Interactive3DMallMap/css/style.css",
+		"//192.168.242.11/Inetpub/wwwroot/spsroot/documentation/brandingstandards/colors/index.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/recognition.php",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/N5UIH4U0/fc87c61edaf2742286257f690045f414[1]",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/ABCHelp/internal-menu-left.html",
+		"/C/Users/tso0016/AppData/Roaming/Sublime Text 3/Installed Packages/Todo.sublime-package",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/ABCHelp/claimsforms.html",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/SOLRKAFJ/f1eeeeccbcadeb9a86257054006eec45[1]",
+		"/C/Users/tso0016/Downloads/why-banning-strong-encryption-is-a-bad-idea (1).markdown",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/ABCHelp/internal-no-menu-left.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/ABCHelp/internal.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/tag-sort-documentation.txt",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/spotlightstories.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/ABCHelp/index.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/ABCHelp/css/style.css",
+		"/C/Users/tso0016/Documents/Projects/ABC/spotlight links/dustinsCode.txt",
+		"/C/Users/tso0016/Desktop/odlini.txt",
+		"/C/xampp/htdocs/abc/css/testing.css",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/6KNPBQVO/2016[1]",
+		"/C/Users/tso0016/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/N5UIH4U0/ConcordIntroForm[1]",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/agencymanagement.php",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/customerservice.php",
+		"/C/Users/tso0016/Documents/Projects/Social Media/deadimages.txt",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/news.html",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/infoservices.php",
+		"/C/Users/tso0016/Documents/Projects/ABC/abc/signup.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"exc",
+			"span",
+			"body",
+			"box",
+			"https://wellness.shelterinsurance.com/wellness/content_assets/images/",
+			"/media/",
+			"spot",
+			"TLWeekendJan3March212015",
+			"heigh",
+			"<table",
+			"product o",
+			"/media/",
+			" class=\"xl121\"",
+			" style=\"height: 20px;\"",
+			" class=\"xl126\"",
+			" height=\"20\"",
+			" class=\"xl124\"",
+			" height=\"17\"",
+			" width=\"140\"",
+			" class=\"xl119\"",
+			" height=\"20\"",
+			" height=\"17\"",
+			" class=\"xl123\"",
+			" height=\"34\"",
+			" width=\"140\"",
+			" class=\"xl120\"",
+			" height=\"20\"",
+			" height=\"17\"",
+			" class=\"xl122\"",
+			" height=\"34\"",
+			" width=\"165\"",
+			"</option>",
+			"</span>",
+			"<span style=\"color: #0000ff;\">",
+			"</b>",
+			"<b>",
+			"<!--",
+			"http",
+			"awes",
+			" width=\"92\"",
+			"<span style=\"color: #0000e0;\">",
+			"<span style=\"color: #0000cc;\">",
+			"<span style=\"text-decoration: underline;\">",
+			"</center>",
+			"</strong>",
+			"</em>",
+			"</span>",
+			"<span style=\"color: #3333cc;\">",
+			"<em>",
+			"<strong>",
+			"<center>",
+			" width=\"192\"",
+			" width=\"678\"",
+			" bgcolor=\"#FFFFFF\"",
+			"https://abcdev.shelterinsurance.com",
+			"wodth",
+			" width=\"79\"",
+			" width=\"96\"",
+			" width=\"369\"",
+			" width=\"192\"",
+			" width=\"92\"",
+			" width=\"192\"",
+			" bgcolor=\"#ffffff\"",
+			" width=\"678\"",
+			"benef",
+			"footer",
+			"hide",
+			"hidden",
+			"sect",
+			"<br />",
+			"div",
+			"<div align=\"center\">",
+			"</div>",
+			"<div align=\"center\">",
+			"</span>",
+			"<span style=\"font-family: Times New Roman;\">",
+			" width=\"710\"",
+			" bgcolor=\"#ffffff\"",
+			" width=\"149\"",
+			" width=\"466\"",
+			" width=\"82\"",
+			" bgcolor=\"#99ccff\"",
+			" align=\"center\"",
+			"</div>",
+			"<div align=\"center\">",
+			"h3",
+			"h2",
+			" width=\"31%\"",
+			" width=\"23%\"",
+			" width=\"24%\"",
+			" width=\"22%\"",
+			" style=\"width: 100%;\"",
+			"h3",
+			" width=\"23%\"",
+			" width=\"24%\"",
+			" width=\"22%\"",
+			" style=\"width: 100%;\"",
+			"h2",
+			" width=\"26%\"",
+			" width=\"51%\"",
+			" width=\"55%\"",
+			" width=\"23%\"",
+			" width=\"22%\"",
+			"<img src=\"https://tcm.shelterinsurance.com/icons/ecblank.gif\" alt=\"\" width=\"1\" height=\"1\" border=\"0\" />",
+			" width=\"73%\"",
+			" width=\"46%\"",
+			" width=\"27%\"",
+			" style=\"width: 100%;\"",
+			" width=\"19%\"",
+			" width=\"100%\"",
+			" width=\"33%\"",
+			" width=\"49%\"",
+			" width=\"8%\"",
+			" width=\"10%\"",
+			" width=\"165\"",
+			" width=\"125\"",
+			" width=\"320\"",
+			" width=\"95\"",
+			" width=\"705\"",
+			"table",
+			" width=\"78\"",
+			" width=\"462\"",
+			" width=\"102\"",
+			"ie",
+			"<span style=\"color: #0000ff;\">",
+			" style=\"text-align: center;\"",
+			" width=\"1045\"",
+			" width=\"325\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"div",
+			"https://wellness.shelterinsurance.com/media/wellness/content_assets/images/",
+			"https://wellness.shelterinsurance.com/",
+			"https://shelterinsurance.com/media/",
+			"",
+			"</strong>",
+			"<strong>",
+			"",
+			"p",
+			"<p align=\"center\">",
+			"</p>",
+			"<p align=\"center\">",
+			"",
+			"</p>",
+			"<p align=\"center\">",
+			"h4",
+			"",
+			"h4",
+			"",
+			"\"",
+			"",
+			"<span id",
+			"<a id",
+			"",
+			"</strong>",
+			"<strong>",
+			"",
+			"<td>",
+			"",
+			"333",
+			"\\u0027",
+			"</strong>",
+			"<strong>",
+			"",
+			"./img/",
+			"./",
+			"./img/",
+			"",
+			"<td>",
+			"",
+			"https://abc.shelterinsurance.com/icons/ecblank.gif",
+			"\"",
+			"",
+			"img-responsive state",
+			"state-box",
+			"<img class=\"img-responsive\" src=\"./img/arkansas.png\">",
+			"",
+			"#sitemap",
+			"<div class=\"calendar-office-color\"></div>",
+			"<div class=\"calendar-office-location\">",
+			"<div class=\"calendar-office-color\">color",
+			"CC0033",
+			"\"",
+			"",
+			"depth-2",
+			"<h4>How to order a Fitbit</h4>",
+			"24CDA5",
+			"\"",
+			"card_alt",
+			".progressbar",
+			"",
+			"agentInfo",
+			"name",
+			"",
+			"info",
+			"",
+			"progress-bar-striped active",
+			"small-centered",
+			"",
+			" ",
+			"",
+			"$.50",
+			"&nbsp;",
+			"",
+			".length ==",
+			"",
+			".card",
+			"class=\"card\"",
+			"<div>",
+			"</div>",
+			"<div>",
+			"</div>",
+			"",
+			"class=\"well\"",
+			"",
+			"class=\"btn btn-primary btn-lg btn-block waves-effect waves-button\"",
+			"h4",
+			"<div id=\"aniWell\" class=\"well rubberBand animated\">",
+			"<h5 class=\"bringDown\">",
+			"",
+			"col-lg-3",
+			"col-lg-4",
+			"&",
+			"",
+			"border-top",
+			"",
+			"Open Sans",
+			"",
+			"calendar",
+			"",
+			"#3E4851",
+			"#d85b00",
+			"#FA6900",
+			"linkPanel md",
+			"",
+			"td",
+			"",
+			"d9542b",
+			"3fb4be",
+			"#B1E1E5",
+			"B1E1E5",
+			"",
+			"<div class=\"event4\">Example Text @4:10</div>",
+			"<div class=\"event3\">Example Text @4:10</div>",
+			"<div class=\"event2\">Example Text @4:10</div>",
+			"<div class=\"event1\">Example Text @4:10</div>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/obor/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2489,
+								2489
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2491,
+										2494
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2456,
+										2459
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsla",
+									"rgb",
+									"hex",
+									"hsl",
+									"rgba",
+									"webcolors",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1470770657.65,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 268.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/obor/css/oborstyle.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										772,
+										773
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										615,
+										616
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.file_palette":
+							[
+								"#33333300",
+								"#333333FF",
+								"#333333ff",
+								"#5c8fa0ff",
+								"#f5f5f5ff",
+								"#ffffffFF",
+								"#ffffffff"
+							],
+							"color_helper.popup_active": false,
+							"color_helper.popup_auto": true,
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsla",
+									"rgb",
+									"hex",
+									"hsl",
+									"rgba",
+									"webcolors",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".css",
+								"current_syntax": "CSS/CSS",
+								"enabled": true,
+								"last_updated": 1470770657.65,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "oborjs.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3752,
+								3762
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3763,
+										3764
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3750,
+										3751
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1470770657.65
+							},
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2367.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 511.0
+	},
+	"pinned_build_system": "",
+	"project": "obor Project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
